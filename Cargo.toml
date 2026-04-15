@@ -1,0 +1,8 @@
+[package]
+name = "libtpl"
+version = "0.1.0"
+edition = "2021"
+license = "AGPL-3.0-only"
+authors = ["qodeninja"]
+description = "Template syntax library"
+repository = "https://github.com/syntax-rs/libtpl"
